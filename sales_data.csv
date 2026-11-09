@@ -1,0 +1,52 @@
+,0,1,2,3,4,5,6,7,8
+0,Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+1,10001,2024-01-01,Electronics,iPhone 14 Pro,6,448.78,2692.68,Europe,PayPal
+2,10002,2024-01-02,Electronics,GoPro Hero 11,1,906.2,906.2,North America,Credit Card
+3,10003,2024-01-03,Electronics,iPad Air,2,782.76,1565.52,North America,Bank Transfer
+4,10004,2024-01-04,Home Appliances,Cuisinart Coffee Maker,4,155.64,622.56,Australia,Debit Card
+5,10005,2024-01-05,Electronics,Sony WH-1000XM5,6,662.78,3976.68,Asia,PayPal
+6,10006,2024-01-06,Home Appliances,iRobot Roomba i7,1,82.86,82.86,North America,Debit Card
+7,10007,2024-01-07,Clothing,Vans Old Skool Sneakers,3,164.31,492.93,South America,Bank Transfer
+8,10008,2024-01-08,Electronics,Bose QuietComfort Earbuds,1,850.45,850.45,Australia,Debit Card
+9,10009,2024-01-09,Beauty Products,Maybelline Mascara,6,19.73,118.38,Europe,Debit Card
+10,10010,2024-01-10,Electronics,iPad Air,1,601.17,601.17,South America,Debit Card
+11,10011,2024-01-11,Home Appliances,iRobot Roomba i7,3,149.41,448.23,Asia,Credit Card
+12,10012,2024-01-12,Beauty Products,CeraVe Moisturizing Cream,5,112.07,560.35,Europe,Apple Pay
+13,10013,2024-01-13,Books,Educated,6,26.57,159.42,Europe,Debit Card
+14,10014,2024-01-14,Electronics,iPad Air,1,1217.31,1217.31,South America,Debit Card
+15,10015,2024-01-15,Electronics,iPad Air,5,1320.72,6603.6,Asia,PayPal
+16,10016,2024-01-16,Books,Project Hail Mary,6,20.38,122.28,Asia,PayPal
+17,10017,2024-01-17,Home Appliances,Cuisinart Coffee Maker,5,179.75,898.75,Australia,Apple Pay
+18,10018,2024-01-18,Beauty Products,Fenty Beauty Foundation,3,40.69,122.07,Europe,Bank Transfer
+19,10019,2024-01-19,Books,Atomic Habits,1,31.24,31.24,Europe,PayPal
+20,10020,2024-01-20,Books,Sapiens,1,18.38,18.38,Australia,Apple Pay
+21,10021,2024-01-21,Beauty Products,The Ordinary Serum,5,130.5,652.5,North America,Credit Card
+22,10022,2024-01-22,Beauty Products,The Ordinary Serum,6,57.61,345.66,Asia,Apple Pay
+23,10023,2024-01-23,Home Appliances,Breville Toaster Oven,1,573.67,573.67,Asia,Bank Transfer
+24,10024,2024-01-24,Home Appliances,Cuisinart Coffee Maker,1,526.19,526.19,Asia,Bank Transfer
+25,10025,2024-01-25,Beauty Products,Maybelline Mascara,2,62.34,124.68,Europe,Bank Transfer
+26,10026,2024-01-26,Beauty Products,Neutrogena Skincare Set,5,55.37,276.85,North America,Credit Card
+27,10027,2024-01-27,Clothing,Champion Hoodie,2,25.71,51.42,Australia,Credit Card
+28,10028,2024-01-28,Electronics,Nintendo Switch OLED,1,1468.07,1468.07,Australia,PayPal
+29,10029,2024-01-29,Home Appliances,Breville Toaster Oven,5,124.11,620.55,Australia,Bank Transfer
+30,10030,2024-01-30,Books,The Silent Patient,5,28.38,141.9,Europe,Debit Card
+31,10031,2024-01-31,Books,The Midnight Library,4,32.28,129.12,South America,Credit Card
+32,10032,2024-02-01,Home Appliances,Ninja Air Fryer,1,222.7,222.7,Australia,Bank Transfer
+33,10033,2024-02-02,Home Appliances,Shark Steam Mop,2,34.09,68.18,North America,PayPal
+34,10034,2024-02-03,Electronics,iPhone 14 Pro,3,152.73,458.19,Europe,Debit Card
+35,10035,2024-02-04,Books,The Silent Patient,5,11.56,57.8,Australia,Bank Transfer
+36,10036,2024-02-05,Books,The Silent Patient,4,29.79,119.16,Europe,Credit Card
+37,10037,2024-02-06,Electronics,Bose QuietComfort Earbuds,3,664.18,1992.54,South America,Credit Card
+38,10038,2024-02-07,Electronics,iPhone 14 Pro,4,1105.9,4423.6,North America,PayPal
+39,10039,2024-02-08,Home Appliances,Ninja Air Fryer,5,285.7,1428.5,South America,PayPal
+40,10040,2024-02-09,Clothing,Patagonia Fleece Vest,2,176.77,353.54,North America,Apple Pay
+41,10041,2024-02-10,Beauty Products,Olaplex Hair Treatment,1,101.29,101.29,Australia,Credit Card
+42,10042,2024-02-11,Electronics,iPad Air,2,639.29,1278.58,South America,PayPal
+43,10043,2024-02-12,Books,The Da Vinci Code,2,18.22,36.44,South America,Debit Card
+44,10044,2024-02-13,Books,Educated,4,26.8,107.2,Australia,Apple Pay
+45,10045,2024-02-14,Home Appliances,Ninja Air Fryer,3,154.08,462.24,North America,Bank Transfer
+46,10046,2024-02-15,Beauty Products,Neutrogena Skincare Set,6,53.89,323.34,North America,Bank Transfer
+47,10047,2024-02-16,Books,The Alchemist,5,12.24,61.2,Australia,Credit Card
+48,10048,2024-02-17,Home Appliances,Instant Pot Duo,5,68.73,343.65,Europe,Apple Pay
+49,10049,2024-02-18,Electronics,Amazon Echo Dot,2,889.42,1778.84,North America,Bank Transfer
+50,10050,2024-02-19,Electronics,Bose QuietComfort Earbuds,6,896.31,5377.86,Australia,Debit Card
